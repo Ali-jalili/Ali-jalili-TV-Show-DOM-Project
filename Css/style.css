@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://funnyupload.fun/assets/main/images/background_low.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    height: 100vh;
+    background-attachment: fixed;
+ 
+
+}
+
+.nav{
+    background-color:#02121f;
+}
+
+.row{
+
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    gap: 10px;
+    margin-top: 10px;
+    position: relative;
+    top: 148px;
+}
+
+    
+
+
+.footer{
+    margin-top: 5rem;
+    height: 20vh;
+}
+
+.footer-items{
+    background-color: #02121f;
+    color: #fff;
+}
